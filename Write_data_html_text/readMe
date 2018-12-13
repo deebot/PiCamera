@@ -1,0 +1,3 @@
+Run the main.py. It will run the server. The data submitted in the form will be written to test.txt file.
+The filehistorycheck.py file checks if there is any modification to the test.txt. If there is a recent modification it will execute 
+fuction in backend.py file
