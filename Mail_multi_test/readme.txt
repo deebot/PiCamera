@@ -1,2 +1,1 @@
-This code sends mail to the receipients mentioned in the testfile.txt. The main.py sends mails when submit button is pressed. You first need to run
-the read.py. which will create the recepient list that will be used by the main.py.
+This code sends mail to the receipients mentioned in the testfile.txt. The main.py sends mails when submit button is pressed. The read.py returns a list of recepients. The read.py can also return first and last name of the emailholder for a customised message
